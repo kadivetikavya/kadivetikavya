@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadivetikavya
 - 👀 I’m a highly motivated software engineer actively seeking new opportunities in the tech industry with a strong background in Java, HTML, CSS, JavaScript, React Js, MySQL, Hibernate, JDBC and Python.
-- 🌱 I’m currently learning Java FullStack.
+- 🌱 I’m currently learning AWS DevOps.
 
 
 <!---
